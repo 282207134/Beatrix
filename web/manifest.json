@@ -1,0 +1,19 @@
+{
+  "name": "Beatrix",
+  "short_name": "Beatrix",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#151522",
+  "theme_color": "#6A56F6",
+  "description": "Beatrix live streaming community demo",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "purpose": "any maskable",
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
